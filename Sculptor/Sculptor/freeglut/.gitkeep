@@ -1,0 +1,5 @@
+[Bb]in
+include
+[Ll]ib
+*.dll
+*.lib
